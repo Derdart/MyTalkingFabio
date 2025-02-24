@@ -16,8 +16,11 @@ If you find a bug or have ideas for new features, feel free to open an issue.
 
 ## Donate
 BTC network - bc1qc57cxwyu5qw8ceyt2pa6gesjth5a8vuwvc2skk
+
 ETH network - 0x909f68743e26fee9a672460ec0d5872907c718bd
+
 MATIC network - 0x909f68743e26fee9a672460ec0d5872907c718bd
+
 SOL network - 42JBzGJ3ENkVfFk1Rjsm7kizzLaMLj2AxizbJ5zN3HZN
 
 ---  
